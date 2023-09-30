@@ -26,10 +26,7 @@ Este es un proyecto de carrito de compras que permite a los usuarios agregar pro
 - `style.css`: Hojas de estilo CSS.
 - `script.js`: Archivo JavaScript para la funcionalidad del carrito.
 
-## Capturas de Pantalla
-
-![Pantalla principal](screenshots/pantalla_principal.png)
-![Carrito de compras](screenshots/carrito_compras.png)
+s
 
 ## Contribuciones
 
@@ -37,8 +34,7 @@ Este es un proyecto de carrito de compras que permite a los usuarios agregar pro
 
 ## Autor
 
-- Tu Nombre
-
+- Jimmy Ruben Rivera Matos
 ## Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
