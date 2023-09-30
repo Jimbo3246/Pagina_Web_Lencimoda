@@ -1,0 +1,21 @@
+div{
+    display:none;
+    text-align: center;
+}
+.popup-active{
+    display: block;
+}
+
+
+  footer p {
+    margin: 0 10px;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: #000; /* Puedes cambiar este color según tu diseño */
+    margin: 0 10px;
+  }
+  section{
+    text-align: center;
+  }

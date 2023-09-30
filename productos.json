@@ -1,0 +1,83 @@
+[
+    {
+       "id":1,
+       "nombre":"Truza Altintop",
+       "precio":48,
+       "descripcion":"Ropa interior",
+       "img":"https://lh3.googleusercontent.com/p/AF1QipP6yEXsUHUvaU7OIcA-iXBREoy0qmkJuh_iuqtr=w960-h960-n-o-v1",
+       "alt":"imagen truza",
+       "cantidad":1
+    },
+    {
+       "id":2,
+       "nombre":"Boxer KLE1N",
+       "precio":54,
+       "descripcion":"Ropa interior for men",
+       "img":"https://lh3.googleusercontent.com/p/AF1QipPmipE0dS6F1G5a4DoK0TcpsSPL0xhhMW8uxcW6=w960-h960-n-o-v1",
+       "alt":"imagen boxer",
+       "cantidad":1
+    },
+    {
+       "id":3,
+       "nombre":"Truza Niño",
+       "precio":17,
+       "descripcion":"Truza for Kids",
+       "img":"https://lh3.googleusercontent.com/p/AF1QipO1ugniD-g5lDfuPbN84G3o8zkLMtVNss_yroY=w960-h960-n-o-v1",
+       "alt":"imagen Truza",
+       "cantidad":1
+    },
+    {
+      "id":4,
+      "nombre":"Bikini deportivo Boston",
+      "precio":74,
+      "descripcion":"Biquini for men",
+      "img":"https://www.boston.com.pe/wp-content/uploads/2020/07/boston-bikini-deportivo-elastico-visible-prenda-blanco.png",
+      "alt":"imagen biquini",
+      "cantidad":1
+   },
+   {
+      "id":5,
+      "nombre":"Camiseta Clásica BOSTON",
+      "precio":110,
+      "descripcion":"Bibidi for men",
+      "img":"https://www.boston.com.pe/wp-content/uploads/2020/07/boston-camiseta-clasica-tank-top-zoom-3.png",
+      "alt":"imagen bibidi",
+      "cantidad":1
+   },
+   {
+      "id":6,
+      "nombre":"Bóxer Corto BOSTON",
+      "precio":154,
+      "descripcion":"Boxer for men",
+      "img":"https://www.boston.com.pe/wp-content/uploads/2020/07/boston-boxer-corto-ajuste-cuerpo-elastico-visible-cobalto.png",
+      "alt":"imagen boxer",
+      "cantidad":1
+   },
+   {
+      "id":7,
+      "nombre":"Tanga Otoñal",
+      "precio":120,
+      "descripcion":"Jacky Form 10185",
+      "img":"https://jackyform.com.pe/wp-content/uploads/2020/06/TAN_OTO%C3%91AL_2_PLOMO-300x400.jpg",
+      "alt":"imagen Tanga",
+      "cantidad":1
+   },
+   {
+      "id":8,
+      "nombre":"Tanga Corazones",
+      "precio":120,
+      "descripcion":"Jacky Form 10201",
+      "img":"https://jackyform.com.pe/wp-content/uploads/2020/06/tan_corazones_perla_2-300x400.jpg",
+      "alt":"imagen Tanga",
+      "cantidad":1
+   },
+   {
+      "id":9,
+      "nombre":"Cachetero Bolas",
+      "precio":100,
+      "descripcion":"Yolett 1403",
+      "img":"https://www.yolett.com.pe/wp-content/uploads/2021/04/2W8A4225--300x300.jpg",
+      "alt":"imagen Cachetero",
+      "cantidad":1
+   }
+ ]
